@@ -1,0 +1,21 @@
+ Email-   irshadhome2@gmail.com
+ contact- +91 7908529623
+ watsapp- +91 7386569401
+
+
+ *** Learn git**
+******************
+ git remote add origin "repo_url"
+ git add . file/folder-name
+ git commit -m "message" 
+ git push origin master 
+ git pull origin master 
+ git branch git branch new_branch_name
+ git checkout new_branch_name 
+
+git remote -v.
+
+git clone  "https://github.com/irshad-iflair/New-field-in-checkout-page.git"
+
+git checkout ./
+
